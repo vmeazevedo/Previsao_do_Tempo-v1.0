@@ -1,6 +1,8 @@
 ## Previsao do Tempo v1.0
 Aplicação de previsão do tempo utilizando as JSON Geolocation Web Service para identificar a localizar e o AccuWeather para apresentar as informações meteorológicas.
 
+![previsão](https://user-images.githubusercontent.com/40063504/78058900-63b33e00-735f-11ea-96d8-6b7606faedf8.PNG)
+
 ## Requesitos para rodar o código:
 - Python 3.8
 - Instalação das bibliotecas (caso não as tenha): request + json + pprint
