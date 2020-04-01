@@ -1,8 +1,12 @@
+#Made by: Vinícius Azevedo
+#Instagram: instagram.com/v.mazevedo
+#Twitter: twitter.com/vmeazevedo
+
 import requests
 import json
 ##import pprint
 
-accuweatherAPIKey = 'ZJYXMjCTnyAApLhwdP7Kdt2EaEw9tEnP'
+accuweatherAPIKey = 'DIGITE_A_API_KEY_DO_ACUWEATHER'
 
 def pegarCoordenadas():
     r = requests.get('http://www.geoplugin.net/json.gp')
