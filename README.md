@@ -22,7 +22,7 @@ Site: https://www.developer.accuweather.com/
 Weather forecast application using the JSON Geolocation Web Service to identify the location and AccuWeather to display the weather information.
 
 ## Example of code operation:
-! [preview] (https://user-images.githubusercontent.com/40063504/78058900-63b33e00-735f-11ea-96d8-6b7606faedf8.PNG)
+![previsão](https://user-images.githubusercontent.com/40063504/78058900-63b33e00-735f-11ea-96d8-6b7606faedf8.PNG)
 
 ## Requirements to run the code:
 - Python 3.8
