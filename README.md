@@ -29,10 +29,10 @@ Weather forecast application using the JSON Geolocation Web Service to identify 
 
 - Access the AccuWeather website and register:
 Website: https://www.developer.accuweather.com/
-   - Go to the "My Apps" menu to create a new app.
-   - Add new app
-   - Fill out the registration information about how the app will work.
-   - After filling, click on Create App.
-   - With your new app created you now have access to an API Key that will be needed to run the code.
+  - Go to the "My Apps" menu to create a new app.
+  - Add new app
+  - Fill out the registration information about how the app will work.
+  - After filling, click on Create App.
+  - With your new app created you now have access to an API Key that will be needed to run the code.
   
-   Note: The limited trial only allows you to use the code 50 times a day, with the API Key in hand, replace the 'accuweatherAPIKey' variable at the beginning of the code with your API Key.
+Note: The limited trial only allows you to use the code 50 times a day, with the API Key in hand, replace the 'accuweatherAPIKey' variable at the beginning of the code with your API Key.
