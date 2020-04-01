@@ -7,10 +7,6 @@ Aplicação de previsão do tempo utilizando a JSON Geolocation Web Service para
 ## Requesitos para rodar o código:
 - Python 3.8
 
-- Ir até o site da Geoplugin - JSON Geolocation Web Service, e pegar o endereço da requisição a qual iremos fazer:
-Site: https://www.geoplugin.com/webservices/json
-Endereço da requisição: http://www.geoplugin.net/json.gp
-
 - Acessar o site da AccuWeather e se registrar:
 Site: https://www.developer.accuweather.com/
   - Ir ao menu "My Apps" para criar um novo app.
