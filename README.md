@@ -1,4 +1,4 @@
-## Previsão do Tempo v1.0
+## Previsão do Tempo
 Aplicação de previsão do tempo utilizando a JSON Geolocation Web Service para identificar a localização e o AccuWeather para apresentar as informações meteorológicas.
 
 ## Exemplo de funcionamento do código:
@@ -18,7 +18,7 @@ Site: https://www.developer.accuweather.com/
   Obs: O limited trial só permite a utilização do código 50 vezes por dia, com a API Key em mãos substitua a variável 'accuweatherAPIKey' no início do código com a sua API Key.
 
 
-## Weather Forecast v1.0
+## Weather Forecast
 Weather forecast application using the JSON Geolocation Web Service to identify the location and AccuWeather to display the weather information.
 
 ## Example of code operation:
