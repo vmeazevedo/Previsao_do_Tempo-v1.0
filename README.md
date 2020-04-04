@@ -1,5 +1,5 @@
 ## Previsão do Tempo
-Aplicação de previsão do tempo utilizando a JSON Geolocation Web Service para identificar a localização e o AccuWeather para apresentar as informações meteorológicas.
+A aplicação de previsão do tempo utilizando a JSON Geolocation Web Service para identificar a localização e o AccuWeather para apresentar as informações meteorológicas.
 
 ## Exemplo de funcionamento do código:
 ![previsão](https://user-images.githubusercontent.com/40063504/78058900-63b33e00-735f-11ea-96d8-6b7606faedf8.PNG)
@@ -19,7 +19,7 @@ Site: https://www.developer.accuweather.com/
 
 
 ## Weather Forecast
-Weather forecast application using the JSON Geolocation Web Service to identify the location and AccuWeather to display the weather information.
+The Weather forecast application using the JSON Geolocation Web Service to identify the location and AccuWeather to display the weather information.
 
 ## Example of code operation:
 ![previsão](https://user-images.githubusercontent.com/40063504/78058900-63b33e00-735f-11ea-96d8-6b7606faedf8.PNG)
